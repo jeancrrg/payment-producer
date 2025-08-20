@@ -1,4 +1,4 @@
-![Logo Kafka](../payment-producer/src/main/resources/assets/logo-kafka.png)
+![Logo Kafka](src/main/resources/assets/logo-kafka.png)
 
 # 💳 Payment Producer - Microserviço de Produção de Pagamentos com Kafka
 
@@ -8,7 +8,11 @@ Quando um pagamento é recebido via API REST, ele é **publicado em um tópico K
 
 Este projeto foi desenvolvido para estudo e prática de **integração de microsserviços utilizando Apache Kafka**.
 
----
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 💻 Ambiente de desenvolvimento
 - **Java 21**
